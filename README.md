@@ -22,7 +22,7 @@ h1 align="center">Hi 👋, I'm Yangchen Sherpa</h1>
 
 <p align="left"> <a href="https://twitter.com/yonasherpa04" target="blank"><img src="https://img.shields.io/twitter/follow/yonasherpa04?logo=twitter&style=for-the-badge" alt="yonasherpa04" /></a> </p>
 
-- 🌱 I’m currently learning **Java,DSA,Frameworks**
+- 🌱 I’m currently learning **Java,DSA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yangchen-sherpa-55b312276?trk=contact-info**
 
