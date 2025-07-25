@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![MasterHead](“https://github.com/user-attachments/assets/a32e6f93-53c9-4c16-9bbb-969cd84bf9a7" />)](https://yonasherpa04.io)
+[![MasterHead](“https://github.com/user-attachments/assets/a32e6f93-53c9-4c16-9bbb-969cd84bf9a7)
 
 <h1 align="center">Hi 👋, I'm Yangchen Sherpa</h1>
 <h3 align="center">Aspiring Java Developer|Crafting robust solutions with java|Mastering java for real world impact</h3>
@@ -48,3 +47,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonasherpa04&show_icons=true&locale=en" alt="yonasherpa04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonasherpa04&" alt="yonasherpa04" /></p>
+
+
+
+
