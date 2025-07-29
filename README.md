@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **yonasherpa04/yonasherpa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://github.com/user-attachments/assets/a32e6f93-53c9-4c16-9bbb-969cd84bf9a7)
+![MasterHead](https://github.com/user-attachments/assets/a32e6f93-53c9-4c16-9bbb-969cd84bf9a7)
 
 <h1 align="center">Hi 👋, I'm Yangchen Sherpa</h1>
 <h3 align="center">Aspiring Java Developer|Crafting robust solutions with java|Mastering java for real world impact</h3>
