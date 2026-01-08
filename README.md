@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://github.com/user-attachments/assets/a32e6f93-53c9-4c16-9bbb-969cd84bf9a7)
 
-<h1 align="center">Hi 👋, I'm Yangchen  </h1>
-<h3 align="center">Aspiring Java Developer|Crafting robust solutions with java|Mastering java for real world impact</h3>
+<h1 align="center">Hi 👋, I'm Yangchen Sherpa </h1>
+<h3 align="center">Aspiring Java Developer|Crafting robust solutions with java|Mastering java for real world impacts</h3>
 <img align=“right” alt=“Coding” width=“400” src="https://github.com/user-attachments/assets/a637f87c-0b74-4e65-b13f-2e52a6a9e487" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonasherpa04&label=Profile%20views&color=0e75b6&style=flat" alt="yonasherpa04" /> </p>
