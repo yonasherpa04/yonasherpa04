@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/yonasherpa04" target="blank"><img src="https://img.shields.io/twitter/follow/yonasherpa04?logo=twitter&style=for-the-badge" alt="yonasherpa04" /></a> </p>
 
-- 🌱 I’m currently learning **Java,DSA,Frameworks**
+- 🌱 I’m currently learning **Java,DSA,Frameworks**,AWS.
 
 - 💬 Ask me about **Java,Html,Css,Javascript,Frameworks**
 
