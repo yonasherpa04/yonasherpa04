@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://github.com/user-attachments/assets/a32e6f93-53c9-4c16-9bbb-969cd84bf9a7)
 
-<h1 align="center">Hi 👋, I'm Yangchen  </h1>
+<h1 align="center">Hi 👋, I'm Yangchen Sherpa </h1>
 <h3 align="center">Aspiring Java Developer|Crafting robust solutions with java|Mastering java for real world impacts</h3>
 <img align=“right” alt=“Coding” width=“400” src="https://github.com/user-attachments/assets/a637f87c-0b74-4e65-b13f-2e52a6a9e487" />
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/yonasherpa04" target="blank"><img src="https://img.shields.io/twitter/follow/yonasherpa04?logo=twitter&style=for-the-badge" alt="yonasherpa04" /></a> </p>
 
-- 🌱 I’m currently learning **Java,DSA,Frameworks**,AWS.
+- 🌱 I’m currently learning **Java,DSA,Frameworks**,
 
 - 💬 Ask me about **Java,Html,Css,Javascript,Frameworks**
 
